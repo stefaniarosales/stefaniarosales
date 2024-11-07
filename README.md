@@ -1,6 +1,6 @@
-<img align='right' width="30%" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/working.gif" alt="Working gif">
 
 ## <span style="font-size:18px">👋 ¡Hola! Soy @stefaniarosales</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/starw.gif" width="30px">
+<img align='right'  padding-top="2000px" width="30%" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/working.gif" alt="Working gif">
 
 <span style="font-size:12px">👀 Me especializo en el diseño y desarrollo de interfaces web, con el objetivo de crear experiencias de usuario intuitivas y eficientes.  
 🌱 Actualmente estoy sumergida en el mundo de React, JavaScript y frameworks CSS, buscando siempre nuevas formas de expresar mi creatividad.  
