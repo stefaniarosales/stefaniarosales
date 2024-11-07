@@ -8,7 +8,7 @@
 📫 ¿Quieres contactarme? Escríbeme a [stefaniarosales@live.com](mailto:stefaniarosales@live.com) o búscame en GitHub.  
 ⚡ Un dato curioso: ¡Soy una amante del café y la música clásica! Me inspiran a crear código elegante y eficiente.</span>
 
-### <span style="font-size:16px">Cómo contactarme:</span> <img src="" width="30px">
+### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
 
 [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/instagram.png" alt="Instagram logo">](https://www.instagram.com/stefisua/)  [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/github.png" alt="GitHub logo">](https://github.com/stefaniarosales) [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/likedin.png" alt="LinkedIn logo">](https://www.linkedin.com/in/stefaniarosales/)
 
