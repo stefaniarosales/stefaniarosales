@@ -1,5 +1,5 @@
 
-## <span style="font-size:18px"><img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/hello.gif" width="30px"> ¡Hola! Soy Stefania Rosales</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/starw.gif" width="30px">
+## <span style="font-size:18px"><img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/hello.gif" width="30px"> ¡Hola! Soy Stefania</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/starw.gif" width="30px">
 <img align='right'  padding-top="2000px" width="30%" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/working.gif" alt="Working gif">
 
 <span style="font-size:10px"><img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/eye.gif" width="20px"> Me especializo en el diseño y desarrollo de interfaces web, con el objetivo de crear experiencias de usuario intuitivas y eficientes.  
