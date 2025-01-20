@@ -6,12 +6,62 @@
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/planta.gif" width="20px">Actualmente estoy sumergida en el mundo de React, JavaScript y frameworks CSS, buscando siempre nuevas formas de expresar mi creatividad.  
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/heart.gif" width="20px">Me encantaría colaborar en proyectos que desafíen mis límites y me permitan aprender de otros desarrolladores.  
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/thunder.gif" width="20px">Un dato curioso: ¡Soy una amante del café y la buena música! Me inspiran a crear código elegante y eficiente.</span>
+### <span style="font-size:16px">Skills</span>
+<span style="font-size:15px" >Habilidades Técnicas </span>
+<p align="center">
+
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/CS.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/CSS.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Figma-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Git.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Github-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/HTML.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/JavaScript.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/NextJS-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/NodeJS-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Photoshop.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Python-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/React-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Unity-Dark.svg" width="50"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="img/Windows-Dark.svg" width="50"/>
+  </span>
+  
+</p>
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
 
 [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/instagram.png" alt="Instagram logo">](https://www.instagram.com/stefisua/)   [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/github.png" alt="GitHub logo">](https://github.com/stefaniarosales) [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/likedin.png" alt="LinkedIn logo">](https://www.linkedin.com/in/stefaniarosales/)
 
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniarosales&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniarosales&layout=compact)](https://github.com/stefaniarosales/github-readme-stats)
+
+
 
 
 
