@@ -8,7 +8,7 @@
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/thunder.gif" width="20px">Un dato curioso: ¡Soy una amante del café y la buena música! Me inspiran a crear código elegante y eficiente.</span>
 ### <span style="font-size:16px">Skills</span>
 <span style="font-size:15px" >Habilidades Técnicas </span>
-<p align="center">
+<p align="">
 
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CSS.svg" width="50"/>
@@ -20,39 +20,15 @@
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/React-Dark.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Git.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/JavaScript.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Github-Dark.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Git.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/HTML.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Github-Dark.svg
+" width="50"/>
   </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/JavaScript.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/NextJS-Dark.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/NodeJS-Dark.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Photoshop.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Python-Dark.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/React-Dark.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Unity-Dark.svg" width="50"/>
-  </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Windows-Dark.svg" width="50"/>
-  </span>
-  
 </p>
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
