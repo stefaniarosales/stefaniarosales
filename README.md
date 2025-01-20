@@ -11,13 +11,13 @@
 <p align="center">
 
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/CS.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CSS.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/CSS.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/HTML.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="img/Figma-Dark.svg" width="50"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/React-Dark.svg" width="50"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="img/Git.svg" width="50"/>
