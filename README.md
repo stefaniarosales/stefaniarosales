@@ -46,10 +46,10 @@
 
 ### <span style="font-size:10px" >Habilidades blandas</span>
 
-<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CREATIVIDAD.gif" width="80px">
-<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ADAPTACION.gif" width="80px">
-<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/TRABAJOEEQUIPO.gif" width="120px">
-<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/RESOLUCIONDEPROBLEMAS.gif" width="180px">
+<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CREATIVIDAD.gif" width="100px">
+<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ADAPTACION.gif" width="100px">
+<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/TRABAJOEEQUIPO.gif" width="160px">
+<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/RESOLUCIONDEPROBLEMAS.gif" width="210px">
 
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
