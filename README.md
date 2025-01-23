@@ -13,22 +13,34 @@
 <p align="">
 
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CSS.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/css.png" width="30"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/HTML.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/html.png" width="30"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/React-Dark.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/react.png" width="35"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/JavaScript.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/js.png" width="35"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Git.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/git.png" width="35"/>
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Github-Dark.svg" width="35"/>
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/github.png" width="35"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/styled-componets.svg" width="35"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ai.png" width="35"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ps.png" width="35"/>
+  </span>
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/figma.png" width="25"/>
   </span>
 </p>
 
