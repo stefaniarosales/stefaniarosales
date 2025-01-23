@@ -6,9 +6,11 @@
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/planta.gif" width="20px">Actualmente estoy sumergida en el mundo de React, JavaScript y frameworks CSS, buscando siempre nuevas formas de expresar mi creatividad.  
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/heart.gif" width="20px">Me encantaría colaborar en proyectos que desafíen mis límites y me permitan aprender de otros desarrolladores.  
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/thunder.gif" width="20px">Un dato curioso: ¡Soy una amante del café y la buena música! Me inspiran a crear código elegante y eficiente.</span>
-### <span style="font-size:16px">Skills   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/skills.gif" width="70px"></span>
+### <span style="font-size:16px">Skills
+<img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/skills.gif" width="90px">
+</span>
 
-### <span style="font-size:10px" >Habilidades técnicas </span>
+<span style="font-size:10px" >Habilidades técnicas </span>
 
 <p>
 
@@ -46,7 +48,7 @@
   </span>
 </p>
 
-### <span style="font-size:10px" >Habilidades blandas</span>
+<span style="font-size:10px">Habilidades blandas</span>
 
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CREATIVIDAD.gif" width="100px">
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ADAPTACION.gif" width="100px">
