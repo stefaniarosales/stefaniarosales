@@ -37,7 +37,7 @@
 
 *   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CREATIVIDAD.gif" width="100px">
 *   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/ADAPTACION.gif" width="100px">
-*   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/TRABAJOEEQUIPO.gif" width="200px">
+*   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/TRABAJOEEQUIPO.gif" width="180px">
 *   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/RESOLUCIONDEPROBLEMAS.gif" width="240px">
 
 
