@@ -7,7 +7,7 @@
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/heart.gif" width="20px">Me encantaría colaborar en proyectos que desafíen mis límites y me permitan aprender de otros desarrolladores.  
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/thunder.gif" width="20px">Un dato curioso: ¡Soy una amante del café y la buena música! Me inspiran a crear código elegante y eficiente.</span>
 ### <span style="font-size:16px">Skills   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/skills.gif" width="70px"></span>
-<span style="font-size:15px" >Habilidades Técnicas </span>
+<span style="font-size:15px" >Habilidades técnicas </span>
 <p align="">
 
   <span style="display: inline-block; margin-right: 10px;">
@@ -29,6 +29,7 @@
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Github-Dark.svg" width="35"/>
   </span>
 </p>
+<span style="font-size:15px" >Habilidades blandas</span>
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
 
