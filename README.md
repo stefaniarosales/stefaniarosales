@@ -28,9 +28,6 @@
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Github-Dark.svg" width="35"/>
   </span>
-  <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/Git.svg" width="35"/>
-  </span>
 </p>
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
