@@ -10,14 +10,16 @@
 
 ### <span style="font-size:10px" >Habilidades técnicas </span>
 
-<p align="">
+<p>
 
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/css.png" width="30"/>
   </span>
+  
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/html.png" width="30"/>
   </span>
+  
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/react.png" width="35"/>
   </span>
