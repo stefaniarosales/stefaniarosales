@@ -56,7 +56,7 @@
 
 ### <span style="font-size:16px">Cómo contactarme:</span> <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/message.gif" width="30px">
 
-[<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/instagram.png" alt="Instagram logo">](https://www.instagram.com/stefisua/)   [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/github.png" alt="GitHub logo">](https://github.com/stefaniarosales) [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/likedin.png" alt="LinkedIn logo">](https://www.linkedin.com/in/stefaniarosales/)
+[<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/instagram.png" alt="Instagram logo">](https://www.instagram.com/stefisua/)   [<img width="30px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/likedin.png" alt="LinkedIn logo">](https://www.linkedin.com/in/stefaniarosales/)   [<img width="32px" src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/gmail.png" alt="GitHub logo">](https://github.com/stefaniarosales) 
 
 ![Stefania's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefaniarosales&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefaniarosales&layout=compact)](https://github.com/stefaniarosales/github-readme-stats)
 
