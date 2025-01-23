@@ -8,7 +8,7 @@
 <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/thunder.gif" width="20px">Un dato curioso: ¡Soy una amante del café y la buena música! Me inspiran a crear código elegante y eficiente.</span>
 ### <span style="font-size:16px">Skills   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/skills.gif" width="70px"></span>
 
-### <span style="font-size:15px" >Habilidades técnicas </span>
+### <span style="font-size:10px" >Habilidades técnicas </span>
 
 <p align="">
 
@@ -32,7 +32,7 @@
   </span>
 </p>
 
-### <span style="font-size:15px" >Habilidades blandas</span>
+### <span style="font-size:10px" >Habilidades blandas</span>
 
 
 *   <img src="https://github.com/stefaniarosales/stefaniarosales/blob/main/assets/CREATIVIDAD.gif" width="100px">
